@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](./public/image/monsters-rolodex.png?raw=true "Monsters Rolodex")
+
+## Monsters Rolodex REACT App
+
+I built this very small and fun app to get started with React development.
+Follow this [Link](https://monsters-rolodex-3bkrzicy7.now.sh/) to try out the app. The only interaction is the filtering via the search box.
 
 ## Available Scripts
 
