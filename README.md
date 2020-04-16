@@ -4,6 +4,7 @@
 
 I built this very small and fun app to get started with React development.
 Follow this [Link](https://monsters-rolodex-3bkrzicy7.now.sh/) to try out the app. The only interaction is the filtering via the search box.
+The project was part of a Udemy React course, which I highly recommend.  [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 ## Available Scripts
 
