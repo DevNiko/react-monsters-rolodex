@@ -13,16 +13,16 @@ class App extends Component {
     }
 
     this.searchFilter = ""
-  }
 
-  /**
-   * Some fake data
-   */
-  componentDidMount() {
+    /**
+     * Retrieve some fake data
+     */
     fetch("https://jsonplaceholder.typicode.com/users")
       .then((response) => response.json())
       .then((users) => this.setState({ monsters: users }))
   }
+
+  componentDidMount() {}
 
   searchChange = (e) => {
     this.searchFilter = e.target.value
